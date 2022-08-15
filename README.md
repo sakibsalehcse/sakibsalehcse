@@ -26,5 +26,5 @@ Skills: <br><b><i>Programming Language : </i></b> C , C++, Java , Python , JavaS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sakibsalehcse)  
 
-//![GitHub metrics](https://metrics.lecoq.io/sakibsalehcse)  
+![GitHub metrics](https://metrics.lecoq.io/sakibsalehcse)  
  
