@@ -1,6 +1,6 @@
 ![Programmer ](https://pbs.twimg.com/profile_banners/376581607/1489587557/600x200)
 ### Hi there 👋, my name is Sakib Saleh
-#### Programmer 
+#### Programmer 👨‍💻
 
 
 Coding is fun, so I code because I love coding. It gives you the ability to create something great. Over the past years, I have made 100+ projects majority of them were from my personal interest 20+ projects were for academic purposes. I'm passionate about robotics.
