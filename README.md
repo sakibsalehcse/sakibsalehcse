@@ -7,9 +7,9 @@ Coding is fun, so I code because I love coding. It gives you the ability to crea
 
 Skills: <br><b><i>Programming Language : </i></b> C , C++, Java , Python , JavaScript.<br><b><i>Web Technologies :</b></i> HTML,CSS,Bootstrap 5<br><b><i>Database : </b></i>  MySQL<br><b><i>Language Skill : </b></i> Bengali and English
 
-- 🔭 I’m currently working on a project. 
-- 🌱 I’m currently learning Web technologies, And Flutter. 
-- ⚡ Fun fact: I’m a gamer. I have won two local tournaments also I am fascinated by RC. 
+ 🔭 I’m currently working on a project. 
+ 🏫 I’m currently learning Web technologies, And Flutter. 
+ 😂 Fun fact: I’m a gamer. I have won two local tournaments also I am fascinated by RC. 
 
 
 ![Profile views](https://gpvc.arturio.dev/sakibsalehcse) 
