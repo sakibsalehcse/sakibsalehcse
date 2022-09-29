@@ -3,14 +3,14 @@
 #### Programmer 👨‍💻
 
 
-Coding is fun, so I code because I love coding. It gives you the ability to create something great. Over the past years, I have made 100+ projects majority of them were from my personal interest 20+ projects were for academic purposes. I'm passionate about robotics.
+<p>Coding is fun, so I code because I love coding. It gives you the ability to create something great. Over the past years, I have made 100+ projects majority of them were from my personal interest 20+ projects were for academic purposes. I'm passionate about robotics.
 
 Skills: <br><b><i>Programming Language : </i></b> C , C++, Java , Python , JavaScript.<br><b><i>Web Technologies :</b></i> HTML,CSS,Bootstrap 5<br><b><i>Database : </b></i>  MySQL<br><b><i>Language Skill : </b></i> Bengali and English
 
  🔭 I’m currently working on a project. 
  <br>🏫 I’m currently learning Web technologies, And Flutter. 
  <br>😂 Fun fact: I’m a gamer. I have won two local tournaments also I am fascinated by RC. 
-
+</p>
 
 ![Profile views](https://gpvc.arturio.dev/sakibsalehcse) 
 
