@@ -1,4 +1,4 @@
-![Programmer ](https://pbs.twimg.com/profile_banners/376581607/1489587557/700x200)
+![Programmer ](https://pbs.twimg.com/profile_banners/376581607/1489587557/600x200)
 ### Hi there 👋, my name is Sakib Saleh
 #### Programmer 👨‍💻
 
